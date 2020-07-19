@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "643252431569",
+    "firebase_url": "https://halfprice-287e5.firebaseio.com",
+    "project_id": "halfprice-287e5",
+    "storage_bucket": "halfprice-287e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643252431569:android:1bdcfbdc8190679ca933f0",
+        "android_client_info": {
+          "package_name": "com.rajapuranam.halfprice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643252431569-3oclpaoh8bib2e0t8ku8rvebr30sdt4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNsKw6D6770JTxLx55z7C-L4hXYVK3LWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643252431569-3oclpaoh8bib2e0t8ku8rvebr30sdt4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
